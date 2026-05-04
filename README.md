@@ -1,6 +1,6 @@
 # directus-skill
 
-A collection of agent skills for working with [Directus](https://directus.io) — originally from [gumpen-app/directapp](https://github.com/gumpen-app/directapp), maintained here as `monh/directus-skill`.
+A collection of agent skills for working with [Directus](https://directus.io) — originally from [gumpen-app/directapp](https://github.com/gumpen-app/directapp), maintained here as `mortennh/directus-skill`.
 
 ## Skills
 
@@ -14,20 +14,20 @@ A collection of agent skills for working with [Directus](https://directus.io) �
 ## Installation
 
 ```bash
-npx skills add monh/directus-skill
+npx skills add mortennh/directus-skill
 ```
 
 Install a specific skill:
 
 ```bash
-npx skills add monh/directus-skill --skill 'Directus Backend Architecture'
-npx skills add monh/directus-skill --skill 'Directus Development Workflow'
-npx skills add monh/directus-skill --skill 'Directus UI Extensions Mastery'
-npx skills add monh/directus-skill --skill 'Directus AI Assistant Integration'
+npx skills add mortennh/directus-skill --skill 'Directus Backend Architecture'
+npx skills add mortennh/directus-skill --skill 'Directus Development Workflow'
+npx skills add mortennh/directus-skill --skill 'Directus UI Extensions Mastery'
+npx skills add mortennh/directus-skill --skill 'Directus AI Assistant Integration'
 ```
 
 Install for a specific agent (e.g. Claude Code):
 
 ```bash
-npx skills add monh/directus-skill -a claude-code
+npx skills add mortennh/directus-skill -a claude-code
 ```
